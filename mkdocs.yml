@@ -1,0 +1,7 @@
+site_name: My Docs
+
+nav:
+  - Home: index.md
+  - Presentation 1: Presentation 1.md
+  - Presentation 2: Presentation 2.md
+  - Presentation 3: Presentation 3.md
